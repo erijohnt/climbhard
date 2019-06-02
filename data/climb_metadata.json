@@ -1,0 +1,1883 @@
+[
+    {
+        "area": "12590 Almenara, Spain",
+        "geohash": "ezpf4ushfhgcnk5etjpp",
+        "count": 2,
+        "coordinates": [
+            -0.2251286,
+            39.7521228
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "5505 M\u00fchlbach am Hochk\u00f6nig",
+        "geohash": "u23md8t616ebwku6f762",
+        "count": 1,
+        "coordinates": [
+            13.1249445,
+            47.3761503
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Achleiten",
+        "geohash": "u233q30hb0h1jd9rpg0m",
+        "count": 1,
+        "coordinates": [
+            13.2824763,
+            46.6322853
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Albarrac\u00edn",
+        "geohash": "eznvz5um3z7kgzn0m6w5",
+        "count": 3,
+        "coordinates": [
+            -1.4442792,
+            40.4072825
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Alternativna Stena, Slovakia",
+        "geohash": "u2tugerryuvfe8xmwuvu",
+        "count": 1,
+        "coordinates": [
+            19.5,
+            48.66667
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Andonno",
+        "geohash": "spv7cpf6fd0v64e95n2h",
+        "count": 2,
+        "coordinates": [
+            7.4299561,
+            44.2959854
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Araotz",
+        "geohash": "ezwk847dqcumd3wbbzxz",
+        "count": 2,
+        "coordinates": [
+            -2.4558355,
+            42.9912718
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Arco",
+        "geohash": "u0ptpxngzvwcx4cxs9ss",
+        "count": 6,
+        "coordinates": [
+            10.8860765,
+            45.9180319
+        ],
+        "boulders": 0,
+        "routes": 3
+    },
+    {
+        "area": "Arnao",
+        "geohash": "ezexzuwsqdz1x1u7dgz0",
+        "count": 1,
+        "coordinates": [
+            -5.9783338,
+            43.5752685
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Baile Herculane",
+        "geohash": "srzzq5r2tkxuh4982z73",
+        "count": 1,
+        "coordinates": [
+            22.4223016,
+            44.8861275
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Baltzola",
+        "geohash": "ezwj64sxz6vpb84440h6",
+        "count": 3,
+        "coordinates": [
+            -2.7181117,
+            43.1254309
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Basler Jura",
+        "geohash": "u0mt7u6kx80004wmcb0b",
+        "count": 8,
+        "coordinates": [
+            7.9025817,
+            47.35322
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Biblins Cave",
+        "geohash": "sr3jykx08sjrwjrw835f",
+        "count": 1,
+        "coordinates": [
+            12.94055,
+            41.81682
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Bilico",
+        "geohash": "sr7cbwup9j17mtmdn331",
+        "count": 1,
+        "coordinates": [
+            16.5509481,
+            41.1272609
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Bishop",
+        "geohash": "9qeu9cg5nyw4fs84fd9j",
+        "count": 5,
+        "coordinates": [
+            -118.3952405,
+            37.363679
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Boulder, Colorado",
+        "geohash": "9xj5ss824mzyv1y7s77t",
+        "count": 5,
+        "coordinates": [
+            -105.2705456,
+            40.0149856
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Brione, Switzerland",
+        "geohash": "u0nr2h10n5rzrwnbsb63",
+        "count": 5,
+        "coordinates": [
+            8.790704,
+            46.2964054
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Bu\u00f1ol",
+        "geohash": "ezp2q00014qsyup3fr21",
+        "count": 1,
+        "coordinates": [
+            -0.7909637,
+            39.4189582
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Camaiore",
+        "geohash": "spz3fqxjg81zwnvg5rt8",
+        "count": 1,
+        "coordinates": [
+            10.3039553,
+            43.9380611
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Canmore",
+        "geohash": "c3jfxhn1d1hwkfc28zzk",
+        "count": 3,
+        "coordinates": [
+            -115.3481135,
+            51.0866897
+        ],
+        "boulders": 0,
+        "routes": 3
+    },
+    {
+        "area": "Castillo de Bayuela",
+        "geohash": "ezhsj7uqdzzh83mknb0z",
+        "count": 3,
+        "coordinates": [
+            -4.6851982,
+            40.0998825
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Cederberg",
+        "geohash": "k6jxn5jpgumuxv8cn568",
+        "count": 51,
+        "coordinates": [
+            19.2550823,
+            -32.5016978
+        ],
+        "boulders": 13,
+        "routes": 0
+    },
+    {
+        "area": "Celje",
+        "geohash": "u24z52h6ekv846cz0euf",
+        "count": 1,
+        "coordinates": [
+            15.2659932,
+            46.2309234
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "C\u00e9\u00fcse",
+        "geohash": "spszy8jy2rr39wv2r8g3",
+        "count": 25,
+        "coordinates": [
+            6.973249,
+            43.5509167
+        ],
+        "boulders": 0,
+        "routes": 4
+    },
+    {
+        "area": "Chamonix",
+        "geohash": "u0hvk2kdden63h2454n9",
+        "count": 1,
+        "coordinates": [
+            6.8727506,
+            45.9246705
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Charante, France",
+        "geohash": "u01mtw037ms06g7h0dyg",
+        "count": 1,
+        "coordinates": [
+            2.0,
+            46.0
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Charmey",
+        "geohash": "u0m15nbknggz74uu3uz3",
+        "count": 2,
+        "coordinates": [
+            7.1637241,
+            46.6198181
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Chattanooga",
+        "geohash": "dn5r6ez7s6uh0nehpzrq",
+        "count": 2,
+        "coordinates": [
+            -85.3096801,
+            35.0456297
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Cheedale Cornice",
+        "geohash": "srd20ep17ubdsvgmmmsd",
+        "count": 1,
+        "coordinates": [
+            14.44581,
+            42.20422
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Chironico",
+        "geohash": "u0q215pg0gzuf6jfjtwc",
+        "count": 25,
+        "coordinates": [
+            8.8436935,
+            46.4232654
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Chli Schijen",
+        "geohash": "u0q5qy1t01nuwj0pstgc",
+        "count": 1,
+        "coordinates": [
+            8.7362001,
+            47.0113625
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Clark Mountain, San Bernardino, California",
+        "geohash": "9qmf1ent9hnx4x3yc6yq",
+        "count": 3,
+        "coordinates": [
+            -115.5891664,
+            35.5252588
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Conisbrough",
+        "geohash": "gcx05zyme06ex6t041x1",
+        "count": 3,
+        "coordinates": [
+            -1.2327396,
+            53.4810181
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Cornalba",
+        "geohash": "u0nuvenc9vcbb3mg6qxp",
+        "count": 5,
+        "coordinates": [
+            9.7432339,
+            45.8517289
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Cousimbert",
+        "geohash": "u0m1es082d5nh7962p74",
+        "count": 4,
+        "coordinates": [
+            7.1857709,
+            46.6919492
+        ],
+        "boulders": 4,
+        "routes": 0
+    },
+    {
+        "area": "Cresciano",
+        "geohash": "u0nrkcjt48c32n2jz38v",
+        "count": 21,
+        "coordinates": [
+            9.0054648,
+            46.2807698
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Crevillente",
+        "geohash": "eyz3te167hjhzxc0zpw4",
+        "count": 5,
+        "coordinates": [
+            -0.8111359,
+            38.2493099
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Cuenca",
+        "geohash": "ezn7zqjmwypg8g638xxu",
+        "count": 3,
+        "coordinates": [
+            -2.1348241,
+            40.0681156
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "D\u011b\u010d\u00edn",
+        "geohash": "u340gkwv511h2z9p57tb",
+        "count": 1,
+        "coordinates": [
+            14.2147221,
+            50.7824196
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Domusnovas",
+        "geohash": "snypun0yfrpy24bhwk8f",
+        "count": 1,
+        "coordinates": [
+            8.6144182,
+            39.365211
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Ena",
+        "geohash": "u0f964dqqbdf6w9cg1p2",
+        "count": 2,
+        "coordinates": [
+            3.606899,
+            49.4532855
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Entraygues",
+        "geohash": "u08qs5068ketfkzu4qht",
+        "count": 2,
+        "coordinates": [
+            0.5277026,
+            48.9720119
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Fionnay",
+        "geohash": "u0jjyk131nxedxe8fcvs",
+        "count": 2,
+        "coordinates": [
+            7.3076779,
+            46.032922
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Flagstaff",
+        "geohash": "9w285r9xefyxmzvqwdze",
+        "count": 1,
+        "coordinates": [
+            -111.6518229,
+            35.1987522
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Flatanger",
+        "geohash": "u5rx1epjnqe4efd2jess",
+        "count": 19,
+        "coordinates": [
+            10.6226784,
+            64.5290919
+        ],
+        "boulders": 0,
+        "routes": 8
+    },
+    {
+        "area": "Fontainebleau",
+        "geohash": "u09gm7z5pw37mdbpzke1",
+        "count": 62,
+        "coordinates": [
+            2.7015872,
+            48.4049375
+        ],
+        "boulders": 16,
+        "routes": 0
+    },
+    {
+        "area": "Frankenjura, Germany",
+        "geohash": "u2b53y3ypkdnyuk0zkku",
+        "count": 22,
+        "coordinates": [
+            11.3296217,
+            49.8254266
+        ],
+        "boulders": 4,
+        "routes": 5
+    },
+    {
+        "area": "Gaby",
+        "geohash": "u0js5937v75y2kw1pt9d",
+        "count": 1,
+        "coordinates": [
+            7.8901306,
+            45.7106523
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Gais",
+        "geohash": "u226rymgbnfb2mub94n8",
+        "count": 2,
+        "coordinates": [
+            11.9500388,
+            46.8367701
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Gastlosen",
+        "geohash": "u0m0vrrg0h5630f8v9k2",
+        "count": 1,
+        "coordinates": [
+            7.2726103,
+            46.5784482
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Gero",
+        "geohash": "xn3een3e91g9mpjt0khq",
+        "count": 3,
+        "coordinates": [
+            137.2433187,
+            35.8064271
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Giggleswick",
+        "geohash": "gcw7eg7vqkfqz17fgtnz",
+        "count": 1,
+        "coordinates": [
+            -2.2907212,
+            54.071515
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Golobove Pecine",
+        "geohash": "u21y6u89be78dhx2q7pq",
+        "count": 1,
+        "coordinates": [
+            13.8325,
+            46.12367
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Gottardo",
+        "geohash": "u0jgedty77jzzp6scjyz",
+        "count": 4,
+        "coordinates": [
+            8.24779,
+            45.6300576
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Gozen Yama",
+        "geohash": "xn3s5epm8405c47mvqk8",
+        "count": 2,
+        "coordinates": [
+            137.27314,
+            35.87681
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Grampians National Park",
+        "geohash": "r1m5tch2xf8q9t8utc6h",
+        "count": 17,
+        "coordinates": [
+            142.290105,
+            -37.3479221
+        ],
+        "boulders": 5,
+        "routes": 0
+    },
+    {
+        "area": "Grenoble, France",
+        "geohash": "u0h14d0st7ubpje1g6r9",
+        "count": 1,
+        "coordinates": [
+            5.7357819,
+            45.1875602
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Gro\u00dfarltal",
+        "geohash": "u23ksm60zz9yrph296x5",
+        "count": 2,
+        "coordinates": [
+            13.1976619,
+            47.2262748
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Guanella Pass",
+        "geohash": "9xhcdwgyzr67vq4z4n39",
+        "count": 8,
+        "coordinates": [
+            -105.704985,
+            39.676949
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Hell",
+        "geohash": "u5rbbjgt100nq6g0tvcc",
+        "count": 1,
+        "coordinates": [
+            10.9032872,
+            63.445531
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Hinokage",
+        "geohash": "wvv6n2sdcysmu7jv4dpx",
+        "count": 2,
+        "coordinates": [
+            131.4137315,
+            32.698567
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Hiraoka, Tenryu",
+        "geohash": "xn608vqj43rrkqyg1p1g",
+        "count": 4,
+        "coordinates": [
+            137.8538052,
+            35.273846
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Hol\u0161tejn",
+        "geohash": "u2gcjf1hevf62k3jp1r8",
+        "count": 9,
+        "coordinates": [
+            16.7776603,
+            49.4063213
+        ],
+        "boulders": 6,
+        "routes": 0
+    },
+    {
+        "area": "Hoya Moros",
+        "geohash": "ez5vm23jswyrdzcxkeme",
+        "count": 2,
+        "coordinates": [
+            -5.7442747,
+            40.3002065
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Hueco Tanks",
+        "geohash": "9tste4cj9z41qugmqz2u",
+        "count": 6,
+        "coordinates": [
+            -106.0385877,
+            31.920385
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Jansegg",
+        "geohash": "u0m1jtgvbb4m2ue2q3dg",
+        "count": 4,
+        "coordinates": [
+            7.2781343,
+            46.6146049
+        ],
+        "boulders": 0,
+        "routes": 3
+    },
+    {
+        "area": "Joe's Valley Campground, Utah",
+        "geohash": "9wbzee7xshwx2jnbp7c8",
+        "count": 1,
+        "coordinates": [
+            -111.286517,
+            39.306275
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Jurklo\u0161ter",
+        "geohash": "u24yhzmgfvnnwes9gudj",
+        "count": 1,
+        "coordinates": [
+            15.3339505,
+            46.0951846
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Kanoto",
+        "geohash": "xn6gmeqt6s7ynmpzc80h",
+        "count": 7,
+        "coordinates": [
+            139.1179257,
+            35.7463169
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "K\u00e4rnten",
+        "geohash": "u23cfy94kp8vjwcryryg",
+        "count": 2,
+        "coordinates": [
+            13.8333333,
+            46.7500001
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Kochel",
+        "geohash": "u3511vrvz7ev2vb8qv6r",
+        "count": 3,
+        "coordinates": [
+            15.5566135,
+            50.8306271
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Kusi\u0119ta",
+        "geohash": "u3j8ye4gs09wmugkh96r",
+        "count": 1,
+        "coordinates": [
+            19.27397,
+            50.77392
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Kyoto",
+        "geohash": "xn0x1pqhqgjychz21bh2",
+        "count": 4,
+        "coordinates": [
+            135.7556075,
+            35.021041
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "La Balme de Yenne",
+        "geohash": "u0hh500y3bqswefpu2c5",
+        "count": 1,
+        "coordinates": [
+            5.75795,
+            45.7042
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "La Comarca, Spain",
+        "geohash": "sp3e2mx4dpnyexgg29th",
+        "count": 1,
+        "coordinates": [
+            2.1300694,
+            41.3832193
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Lafayette, GA",
+        "geohash": "dn5m7mgd5sn2zzk0h30d",
+        "count": 1,
+        "coordinates": [
+            -85.2818998,
+            34.7048022
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Lake District National Park",
+        "geohash": "gctvfjx8ryjut2bb0b9w",
+        "count": 3,
+        "coordinates": [
+            -3.0655317,
+            54.4785305
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Lake Tahoe",
+        "geohash": "9qfwk5y5200ft2eye436",
+        "count": 2,
+        "coordinates": [
+            -120.0503528,
+            39.0885405
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Laramie, WY",
+        "geohash": "9xkgj0wbjhbrp6tdd6n4",
+        "count": 1,
+        "coordinates": [
+            -105.591101,
+            41.311367
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Lietlahti Park",
+        "geohash": "uduewv7wfg6565vemew8",
+        "count": 1,
+        "coordinates": [
+            29.1296832,
+            61.1140002
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Lindental",
+        "geohash": "u0wy031kv7x6b9w83vcj",
+        "count": 5,
+        "coordinates": [
+            9.5051255,
+            48.8735153
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Lourmarin",
+        "geohash": "spgbfnbwtn8surg5hr87",
+        "count": 2,
+        "coordinates": [
+            5.3622302,
+            43.7638163
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Loviisa",
+        "geohash": "uddxuv9z045j9vxmhzfr",
+        "count": 1,
+        "coordinates": [
+            26.2267726,
+            60.4562304
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Madrid",
+        "geohash": "ezjmgtxhk7bdx6e7qdqz",
+        "count": 4,
+        "coordinates": [
+            -3.7035825,
+            40.4167047
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Magic Wood, Switzerland",
+        "geohash": "u0meqk5gf0bg4udzug1g",
+        "count": 29,
+        "coordinates": [
+            8.01427,
+            47.00016
+        ],
+        "boulders": 5,
+        "routes": 0
+    },
+    {
+        "area": "Malham",
+        "geohash": "gcw7x1839z926dm0h9v2",
+        "count": 2,
+        "coordinates": [
+            -2.1529001,
+            54.0612719
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Malham Cove",
+        "geohash": "gcw7wgssjnut26yvc0gd",
+        "count": 1,
+        "coordinates": [
+            -2.1579062,
+            54.0726842
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mallorca",
+        "geohash": "sp413e3kyckdjshwhkj3",
+        "count": 4,
+        "coordinates": [
+            2.8804305,
+            39.6134018
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Maltatal",
+        "geohash": "u23dgz3zcj3g7xx83t4d",
+        "count": 6,
+        "coordinates": [
+            13.5266186,
+            46.930833
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Maltby",
+        "geohash": "gcrpv7fb84pb9b8rgq9s",
+        "count": 4,
+        "coordinates": [
+            -1.1717501,
+            53.4142507
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Margalef",
+        "geohash": "sp2dc5uchsrwu1pccmfg",
+        "count": 23,
+        "coordinates": [
+            0.7537968,
+            41.2854434
+        ],
+        "boulders": 0,
+        "routes": 7
+    },
+    {
+        "area": "Massone",
+        "geohash": "u07cy1mn9djjd1my8fdn",
+        "count": 4,
+        "coordinates": [
+            5.544047,
+            46.7218611
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Mavrovo, Macedonia",
+        "geohash": "srqszy7r5q9ctp0ezf63",
+        "count": 1,
+        "coordinates": [
+            20.7358064,
+            41.65178
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mie, Japan",
+        "geohash": "xn1jd7ps0908epryeu90",
+        "count": 2,
+        "coordinates": [
+            136.5154489,
+            34.7339685
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Minamata",
+        "geohash": "wvsxr80f2quw2xfrwfg7",
+        "count": 1,
+        "coordinates": [
+            130.4087616,
+            32.2123376
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Mincy",
+        "geohash": "9ytb10r4pddup0fur3th",
+        "count": 4,
+        "coordinates": [
+            -93.1101783,
+            36.5642307
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Mi\u0161ja Pe\u010d",
+        "geohash": "u21g5rq2s20p24z8qng7",
+        "count": 1,
+        "coordinates": [
+            13.8625252,
+            45.5672562
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mollans",
+        "geohash": "u0kx0fnbwcsynp2u84xy",
+        "count": 1,
+        "coordinates": [
+            6.37065,
+            47.6478
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mont Kinabalu",
+        "geohash": "w94fs3gmydd06npgefsh",
+        "count": 2,
+        "coordinates": [
+            116.5587,
+            6.0750667
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Montemonaco",
+        "geohash": "sr9kp383dq4h4bgt1q3j",
+        "count": 3,
+        "coordinates": [
+            13.3268587,
+            42.8991551
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Montserrat, Marganell Spain",
+        "geohash": "sp3k9n3bnn64np1bkcex",
+        "count": 1,
+        "coordinates": [
+            1.8044215,
+            41.6066318
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Moravsky Kras",
+        "geohash": "u2gc46et7gx12nnphth6",
+        "count": 1,
+        "coordinates": [
+            16.6272913,
+            49.4091844
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mt. Evans, Colorado",
+        "geohash": "9wurrf8b5qfyhdnrkmez",
+        "count": 10,
+        "coordinates": [
+            -106.181688,
+            39.2569342
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Mt. Futago",
+        "geohash": "xn6tpym3x2gud0bvdtc3",
+        "count": 1,
+        "coordinates": [
+            138.8637272,
+            36.0697508
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mt. Mizugaki",
+        "geohash": "xn6s1wpwer53xd8xkcdc",
+        "count": 8,
+        "coordinates": [
+            138.5919868,
+            35.8934876
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Mt. Potosi",
+        "geohash": "9qmueescxy695494m04b",
+        "count": 1,
+        "coordinates": [
+            -115.5033947,
+            35.9667829
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Mudeungsan National Park",
+        "geohash": "wy4rcfgbbtc3tgsbd72s",
+        "count": 2,
+        "coordinates": [
+            126.99614,
+            35.1275707
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Murgtal",
+        "geohash": "u0mww91ywhv4q8xpr9bj",
+        "count": 3,
+        "coordinates": [
+            8.0226873,
+            47.5554629
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Nagasaki",
+        "geohash": "wvu673yre0d8wkedv60j",
+        "count": 2,
+        "coordinates": [
+            129.8781002,
+            32.7501611
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Nassereith",
+        "geohash": "u0rtnt7use2vsc4tm3ge",
+        "count": 1,
+        "coordinates": [
+            10.8378637,
+            47.3147862
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Navalosa",
+        "geohash": "ezhmzfcwnde1rs71r2ft",
+        "count": 2,
+        "coordinates": [
+            -4.9305181,
+            40.401892
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "New Castle, Colorado",
+        "geohash": "9x590un250z7khzsqy2p",
+        "count": 1,
+        "coordinates": [
+            -107.5364443,
+            39.5727585
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Ogawayama",
+        "geohash": "xn6s6bbfwx0n18z3yxbq",
+        "count": 2,
+        "coordinates": [
+            138.6377836,
+            35.9079079
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Oliana",
+        "geohash": "sp2zmfjdbre90xwg1n8g",
+        "count": 57,
+        "coordinates": [
+            1.3149416,
+            42.0671629
+        ],
+        "boulders": 0,
+        "routes": 9
+    },
+    {
+        "area": "Orgon",
+        "geohash": "spg94evshsv3w1m1xs5h",
+        "count": 2,
+        "coordinates": [
+            5.0394918,
+            43.790843
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Parque Regional Cuenca Alta Manzanares",
+        "geohash": "ezjq9ggzvb6wu4jjbdf2",
+        "count": 2,
+        "coordinates": [
+            -3.7848831,
+            40.5395104
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Patones",
+        "geohash": "ezm88f8c3yfh9he4pvkz",
+        "count": 1,
+        "coordinates": [
+            -3.4815582,
+            40.8831251
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Penoles, Mexico",
+        "geohash": "9st9vmeuq5g5c2b1p25p",
+        "count": 1,
+        "coordinates": [
+            -104.5295007,
+            25.6510799
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Petrohrad, Czechia",
+        "geohash": "u2ct1vrmunkyzmjfqkqp",
+        "count": 1,
+        "coordinates": [
+            13.446414,
+            50.1275171
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Pic St Loup",
+        "geohash": "spf9n9xnw9n2f6u67qg3",
+        "count": 1,
+        "coordinates": [
+            3.81117,
+            43.7788923
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Piemonte",
+        "geohash": "u0j8k71cb1f67kqu3sgz",
+        "count": 1,
+        "coordinates": [
+            7.923549,
+            45.060735
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Plomberg",
+        "geohash": "u23rzwz9z9fym626ebw0",
+        "count": 2,
+        "coordinates": [
+            13.3480278,
+            47.8059444
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Poggio Umbricchio",
+        "geohash": "sr9dhk5upw9vw3mjctjf",
+        "count": 1,
+        "coordinates": [
+            13.5516169,
+            42.5617576
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Pop Tire Cave",
+        "geohash": "sr3jykx08sjrwjrw835f",
+        "count": 1,
+        "coordinates": [
+            12.94055,
+            41.81682
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Puerto Natales",
+        "geohash": "4qu3wpd8d4h1rhyge87q",
+        "count": 1,
+        "coordinates": [
+            -72.5062409,
+            -51.7262826
+        ],
+        "boulders": 0,
+        "routes": 0
+    },
+    {
+        "area": "Rawyl",
+        "geohash": "u0jnxxpfqewqthrqsuby",
+        "count": 1,
+        "coordinates": [
+            7.3717704,
+            46.1814364
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Red Rock Canyon National Conservation Area",
+        "geohash": "9qmv53560p4kb7h9s6bj",
+        "count": 14,
+        "coordinates": [
+            -115.516774,
+            36.0410311
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Remetesz\u0151l\u0151s",
+        "geohash": "u2mqwd42umshz2h1w5k2",
+        "count": 1,
+        "coordinates": [
+            18.921735,
+            47.5599735
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Rioup\u00e9roux",
+        "geohash": "u0h0w2fcfj0wmueqfx44",
+        "count": 1,
+        "coordinates": [
+            5.9035215,
+            45.0923388
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Rocky Mountain National Park",
+        "geohash": "9xhv6w3ns5qsmgn7b3dp",
+        "count": 30,
+        "coordinates": [
+            -105.7088953,
+            40.3333178
+        ],
+        "boulders": 7,
+        "routes": 0
+    },
+    {
+        "area": "Rodellar",
+        "geohash": "ezxbw1r0ehybncsfrhht",
+        "count": 10,
+        "coordinates": [
+            -0.0781395,
+            42.2823684
+        ],
+        "boulders": 0,
+        "routes": 4
+    },
+    {
+        "area": "Rumney",
+        "geohash": "drucjyee0p2rf3ef645e",
+        "count": 8,
+        "coordinates": [
+            -71.81282,
+            43.805792
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Russan",
+        "geohash": "spg1fq6qmsn6zy8u8r98",
+        "count": 1,
+        "coordinates": [
+            4.3209616,
+            43.9367943
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Saalachtal",
+        "geohash": "u23p7b1vr79yhqmz89cv",
+        "count": 11,
+        "coordinates": [
+            12.8237619,
+            47.6815851
+        ],
+        "boulders": 5,
+        "routes": 0
+    },
+    {
+        "area": "Sachsen",
+        "geohash": "u319dr2nmcuc68ys6z0p",
+        "count": 1,
+        "coordinates": [
+            13.4585052,
+            50.9295798
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Saint L\u00e9ger du Ventoux",
+        "geohash": "spgg8099tc35c7jnjpf0",
+        "count": 5,
+        "coordinates": [
+            5.2757456,
+            44.2119958
+        ],
+        "boulders": 0,
+        "routes": 3
+    },
+    {
+        "area": "Saint-Pierre en Faucigny",
+        "geohash": "u0hw0bv151v2qwbgxb5q",
+        "count": 4,
+        "coordinates": [
+            6.3680865,
+            46.0589885
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Sainte Victoire",
+        "geohash": "gbr43b2h77q6grxtzzmf",
+        "count": 2,
+        "coordinates": [
+            -1.3291977,
+            46.8038786
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Sant Quirze Safaja",
+        "geohash": "sp3t3h316gqt1rz6jx1p",
+        "count": 12,
+        "coordinates": [
+            2.1548204,
+            41.7276804
+        ],
+        "boulders": 1,
+        "routes": 1
+    },
+    {
+        "area": "Santa\u00a0Ana, Spain",
+        "geohash": "ezqm82d0qxuwfs0m2fej",
+        "count": 1,
+        "coordinates": [
+            -2.4469195,
+            41.7508791
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Santa Linya",
+        "geohash": "sp2wd0ze86gnbbwszjcm",
+        "count": 22,
+        "coordinates": [
+            0.8013301,
+            41.9285647
+        ],
+        "boulders": 0,
+        "routes": 5
+    },
+    {
+        "area": "Schleierwasserfall",
+        "geohash": "u22vfucnutjxkyh0h641",
+        "count": 2,
+        "coordinates": [
+            12.4271111,
+            47.4442715
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Shiobara",
+        "geohash": "xned08dykmumkceqj7ww",
+        "count": 17,
+        "coordinates": [
+            139.9478125,
+            36.9179137
+        ],
+        "boulders": 4,
+        "routes": 0
+    },
+    {
+        "area": "Siurana",
+        "geohash": "spd0hhh0jybkfp4vbqbv",
+        "count": 31,
+        "coordinates": [
+            2.9940216,
+            42.2095097
+        ],
+        "boulders": 0,
+        "routes": 3
+    },
+    {
+        "area": "Sloup",
+        "geohash": "u2gchgtqmnxcvjwpf9gn",
+        "count": 2,
+        "coordinates": [
+            16.7396127,
+            49.4148654
+        ],
+        "boulders": 1,
+        "routes": 1
+    },
+    {
+        "area": "Socaire, Chile",
+        "geohash": "67z9z1ec1fy4dymwq7c6",
+        "count": 1,
+        "coordinates": [
+            -67.8902747,
+            -23.5902062
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "South Platte",
+        "geohash": "9xj0nvbt322j9hnfhe43",
+        "count": 2,
+        "coordinates": [
+            -105.1713788,
+            39.4074892
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Squamish",
+        "geohash": "c2b6tx28k2tbzfr4vjmw",
+        "count": 2,
+        "coordinates": [
+            -123.1558612,
+            49.6980743
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "St. Anne",
+        "geohash": "u2fhzvyqyezpbx2wsze7",
+        "count": 3,
+        "coordinates": [
+            14.4119476,
+            50.0864768
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Sustenpass",
+        "geohash": "u0q1b4y8f7hredcfhurc",
+        "count": 3,
+        "coordinates": [
+            8.4465288,
+            46.7291195
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Sydney",
+        "geohash": "r3gx3hbmqubmvzzdf7cd",
+        "count": 1,
+        "coordinates": [
+            151.2164539,
+            -33.8548157
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Tamaj\u00f3n",
+        "geohash": "ezm9qhdx18wz9jwpz2c3",
+        "count": 2,
+        "coordinates": [
+            -3.2484464,
+            41.0269014
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Teverga",
+        "geohash": "ezetkwr3wcekn8x3rpzy",
+        "count": 2,
+        "coordinates": [
+            -6.1201204,
+            43.14495
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Torrelodones",
+        "geohash": "ezjnydembyvr9n4v7jqe",
+        "count": 1,
+        "coordinates": [
+            -3.928603,
+            40.5762809
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Toyota, Aichi, Japan",
+        "geohash": "xn1xur5yuq6ms05bzu93",
+        "count": 3,
+        "coordinates": [
+            137.301478,
+            35.15195
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Ubatuba",
+        "geohash": "6gzfwn57bmcrbe42cuxm",
+        "count": 1,
+        "coordinates": [
+            -45.083415,
+            -23.433162
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Unknown (Japan)",
+        "geohash": "wvuybpx89k4tdu5uqf45",
+        "count": 1,
+        "coordinates": [
+            130.4400443,
+            33.5715804
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Unknown (Switzerland)",
+        "geohash": "u0qh5uuf8k1d8psp3enn",
+        "count": 2,
+        "coordinates": [
+            8.6088308,
+            47.1359186
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Valle Bavona",
+        "geohash": "u0npeug4tyr7dv6dx8qz",
+        "count": 8,
+        "coordinates": [
+            8.6066714,
+            46.3449152
+        ],
+        "boulders": 4,
+        "routes": 0
+    },
+    {
+        "area": "Varazze",
+        "geohash": "spyh75kj4bxd2x380zjx",
+        "count": 5,
+        "coordinates": [
+            8.5749572,
+            44.3595345
+        ],
+        "boulders": 3,
+        "routes": 0
+    },
+    {
+        "area": "Verdon Gorge",
+        "geohash": "spu8c4tvbtrted9nvhj0",
+        "count": 1,
+        "coordinates": [
+            6.3799984,
+            43.740335
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Vernayaz",
+        "geohash": "u0jn2nvuuddn9z1x4mdc",
+        "count": 1,
+        "coordinates": [
+            7.0393423,
+            46.1365416
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Villanueva del Rosario",
+        "geohash": "eysfkxksrwwxb59mychh",
+        "count": 9,
+        "coordinates": [
+            -4.3660482,
+            36.998599
+        ],
+        "boulders": 0,
+        "routes": 2
+    },
+    {
+        "area": "Vrulja",
+        "geohash": "srsjuynsh4pyvhprc04k",
+        "count": 1,
+        "coordinates": [
+            17.0928489,
+            43.2318997
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "Weststeiermark",
+        "geohash": "u26fsck88qqcs1vqn4dv",
+        "count": 1,
+        "coordinates": [
+            15.3321275,
+            46.8526892
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Yakushima",
+        "geohash": "wvkudhtj2zkb4s61nn4c",
+        "count": 1,
+        "coordinates": [
+            130.5244832,
+            30.347925
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Yatsue",
+        "geohash": "xn7e1bq3usy6pywx8qdd",
+        "count": 2,
+        "coordinates": [
+            140.0075642,
+            35.6852933
+        ],
+        "boulders": 2,
+        "routes": 0
+    },
+    {
+        "area": "Zalog, Slovenia",
+        "geohash": "u24yn8qn2dyrwg01ksmv",
+        "count": 1,
+        "coordinates": [
+            15.4111019,
+            46.0571497
+        ],
+        "boulders": 1,
+        "routes": 0
+    },
+    {
+        "area": "Zillertal",
+        "geohash": "u1jk2t3uvgpye036xf0k",
+        "count": 7,
+        "coordinates": [
+            7.4074457,
+            51.401742
+        ],
+        "boulders": 3,
+        "routes": 1
+    },
+    {
+        "area": "Ziyun",
+        "geohash": "wke6tbqrbr8rdg7v216h",
+        "count": 1,
+        "coordinates": [
+            106.0815923,
+            25.7546983
+        ],
+        "boulders": 0,
+        "routes": 1
+    },
+    {
+        "area": "\u611b\u77e5\u770c\u6c11\u306e\u68ee",
+        "geohash": "xn1z5dr2gu8jn3k932qv",
+        "count": 10,
+        "coordinates": [
+            137.6248637,
+            34.9929821
+        ],
+        "boulders": 5,
+        "routes": 0
+    }
+]
