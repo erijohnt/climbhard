@@ -37,15 +37,8 @@ class ClimbingMap extends Component {
     }
     this.handleZoomIn = this.handleZoomIn.bind(this)
     this.handleZoomOut = this.handleZoomOut.bind(this)
-    this.handleReset = this.handleReset.bind(this)
   }
 
-  handleReset() {
-    this.setState({
-      center: [0,20],
-      zoom: 1,
-    })
-  }
   handleZoomIn() {
     this.setState({
       zoom: this.state.zoom += 1,
@@ -67,9 +60,6 @@ class ClimbingMap extends Component {
           </button>
           <button onClick={this.handleZoomOut}>
             { "Zoom Out" }
-          </button>
-          <button onClick={this.handleReset}>
-            { "Reset" }
           </button>
         </div>
         <div style={wrapperStyles}>
@@ -107,12 +97,6 @@ class ClimbingMap extends Component {
                             strokeWidth: 0.75,
                             outline: "none",
                           },
-                          pressed: {
-                            fill: "#FF5722",
-                            stroke: "#607D8B",
-                            strokeWidth: 0.75,
-                            outline: "none",
-                          },
                         }}
                       />
                     )
@@ -131,43 +115,26 @@ class ClimbingMap extends Component {
                       height={ CircSize(marker.boulders + marker.routes) }
                       padding={ 0 }
                       colorScale={["tomato", "navy" ]}
-                      style={{
-                        text: null,
-                        labels: { fill: "black" },
-                      }}
+                      labels={ (d) => null }
                       data={[
-                        { x: "Boulders", y: marker.boulders},
-                        { x: "Sport Routes", y: marker.routes},
+                        marker.boulders,
+                        marker.routes,
                       ]}
                       events={[{
                           target: "data",
                           eventHandlers: {
                             onClick: () => {
-                              return [
-                                {
-                                  target: "labels",
-                                  mutation: (props) => {
-                return props.text === null ? { text: `Area: ${marker.area}\nHard Boulders: ${marker.boulders}\nHard Sport Routes: ${marker.routes}` } : {text : null};
-                              }
+                              return [{
+                                target: "labels",
+                                mutation: (props) => { return props.text === null ? 
+                                  { text: `Area: ${marker.area}\nHard Boulders: ${marker.boulders}\nHard Sport Routes: ${marker.routes}` } : {text : null};}
+                              }];
                             }
-                          ];
-                        }
                       }
-                    }]}
+                      }]}
                     data={[{ x: "Boulders", y: marker.boulders},
                         { x: "Sport Routes", y: marker.routes},]}
                     />
-                    <text
-                      textAnchor="middle"
-                      y={25}
-                      style={{
-                        fontFamily: "Roboto, sans-serif",
-                        fill: "black",
-                        size: 24
-                      }}
-                      >
-                      {this.state.zoom > 5 ? marker.area : ''}
-                    </text>
                   </Marker>
                 ))}
               </Markers>
