@@ -1,7 +1,9 @@
 import React from 'react';
 import {csv} from 'd3-fetch';
 import ExampleChart from './example-chart';
-import SimpleMarkers from './map';
+import ClimbingMap from './map';
+import TimeMap from './timemap';
+import Horizontal from './slider';
 
 const longBlock = `
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -39,8 +41,9 @@ class RootComponent extends React.Component {
       <div className="relative">
         <h1> Hard Climbs Map </h1>
         <div>{longBlock}</div>
-        <SimpleMarkers />
+        <ClimbingMap />
         <div>{longBlock}</div>
+        <TimeMap />
       </div>
     );
   }
