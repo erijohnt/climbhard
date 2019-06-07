@@ -1,7 +1,9 @@
 import React from 'react';
+import { Graph } from 'react-d3-graph'
 import {csv} from 'd3-fetch';
 import ExampleChart from './example-chart';
-import SimpleMarkers from './map';
+import SimpleMarkers from './map'; 
+import Hairball from './interactiveforce';
 
 const longBlock = `
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -37,9 +39,9 @@ class RootComponent extends React.Component {
     }
     return (
       <div className="relative">
-        <h1> Hard Climbs Map </h1>
+        <h1> Case is a child </h1>
         <div>{longBlock}</div>
-        <SimpleMarkers />
+        <Hairball />;
         <div>{longBlock}</div>
       </div>
     );
