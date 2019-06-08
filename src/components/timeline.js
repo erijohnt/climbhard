@@ -1,34 +1,43 @@
 import React, {Component} from 'react';
 import Data from '../../data/climbingdata.csv';
 import {XYPlot, XAxis, YAxis, MarkSeries, HorizontalGridLines, VerticalGridLines} from 'react-vis';
-import { SelectPicker } from 'rsuite';
+import {SelectPicker} from 'rsuite';
 import 'rsuite/dist/styles/rsuite.min.css';
 
 export default class Timeline extends Component {
   constructor(props) {
     super(props);
-    const stuff = processClimbers();
-    this.data = stuff;
-    this.names = getNames(stuff);
-    this.climber = selectClimber(this.data, 'Adam Ondra');
+    this.data = processClimbers();
+    this.state = {
+      data: this.data,
+      names: getNames(this.data),
+      climber: 'Adam Ondra',
+      climbs: selectClimber(this.data, 'Adam Ondra')
+    };
+    this.handleChange = this.handleChange.bind(this);
   }
 
-  componentDidMount() {
-    // this.data =
+  handleChange(e) {
+    const climbs = selectClimber(this.state.data, e);
+    this.setState({
+      climber: e.value,
+      climbs
+    });
   }
 
   render() {
     return (
       <div>
         <p>Hello world!</p>
-        <p>{console.log(Data)}</p>
-        {console.log(this.names)}
-        <p>{console.log(processClimbers(Data))}</p>
         <SelectPicker
-          data={this.names}
+          data={this.state.names}
           style={{width: 300}}
+          onSelect={this.handleChange}
         />
-        <Plots boulder={this.climber.boulder} sport={this.climber.sport}/>
+        <Plots
+          boulder={this.state.climbs.boulder}
+          sport={this.state.climbs.sport}
+         />
       </div>
     );
   }
