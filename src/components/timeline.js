@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Data from '../../data/climbingdata.csv';
-import {XYPlot, XAxis, YAxis, MarkSeries, HorizontalGridLines, VerticalGridLines} from 'react-vis';
+import {FlexibleWidthXYPlot, XAxis, YAxis, MarkSeries, HorizontalGridLines, VerticalGridLines} from 'react-vis';
 import {SelectPicker} from 'rsuite';
 import 'rsuite/dist/styles/rsuite.min.css';
 
@@ -27,12 +27,12 @@ export default class Timeline extends Component {
 
   render() {
     return (
-      <div>
-        <p>Hello world!</p>
+      <div className="timeline">
         <SelectPicker
           data={this.state.names}
           style={{width: 300}}
           onSelect={this.handleChange}
+          defaultValue={this.state.climber}
         />
         <Plots
           boulder={this.state.climbs.boulder}
@@ -51,9 +51,8 @@ class Plots extends Component {
   }
   render() {
     return (
-      <XYPlot
+      <FlexibleWidthXYPlot
         xType="time"
-        width={this.width}
         height={this.height}
       >
         <XAxis />
@@ -69,7 +68,7 @@ class Plots extends Component {
           className= "sport-climbs"
           data={this.props.sport}
         />
-      </XYPlot>
+      </FlexibleWidthXYPlot>
     );
   }
 }
