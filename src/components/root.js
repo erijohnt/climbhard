@@ -4,6 +4,7 @@ import ExampleChart from './example-chart';
 import ClimbingMap from './map';
 import TimeMap from './timemap';
 import Horizontal from './slider';
+import Timeline from './timeline';
 
 const longBlock = `
 Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt
@@ -39,11 +40,14 @@ class RootComponent extends React.Component {
     }
     return (
       <div className="relative">
-        <h1> Hard Climbs Map </h1>
-        <div>{longBlock}</div>
+        <h1>we are alll chlidren in the eyes of the LORD</h1>
+        <h1>especially case</h1>
+        <div><Timeline /></div>
+        {/* <div>{longBlock}</div>
+        <Hairball />;
         <ClimbingMap />
         <div>{longBlock}</div>
-        <TimeMap />
+        <TimeMap /> */}
       </div>
     );
   }
