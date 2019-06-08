@@ -32,7 +32,7 @@ function CreateFA(maxYear, locations, allAscents) {
   locations.forEach(l => {
     const place = l.area;
     const coord = l.coordinates;
-    const count = allAscents.filter(a => (a.Year < (maxYear + 1)) & (a.Area === place)).length;
+    const count = allAscents.filter(a => ((a.Year !== 1900) && (a.Year < (maxYear + 1)) && (a.Area === place))).length;
     if (count !== 0){
       FA.push({"area" : place, "coordinates" : coord, "count" : count})
     }
