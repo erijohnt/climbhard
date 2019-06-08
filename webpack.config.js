@@ -19,6 +19,10 @@ module.exports = {
           header: true,
           dynamicTyping: true
         }
+      },
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader']
       }
     ]
   },

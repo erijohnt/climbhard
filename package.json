@@ -43,6 +43,7 @@
     "react-rangeslider": "^2.2.0",
     "react-simple-maps": "^0.12.1",
     "react-vis": "^1.11.7",
+    "rsuite": "^3.8.6",
     "victory": "^32.2.3"
   },
   "scripts": {

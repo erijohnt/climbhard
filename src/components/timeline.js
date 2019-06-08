@@ -1,12 +1,15 @@
 import React, {Component} from 'react';
 import Data from '../../data/climbingdata.csv';
 import {XYPlot, XAxis, YAxis, MarkSeries, HorizontalGridLines, VerticalGridLines} from 'react-vis';
-import {frenchToNumber} from '../utils';
+import { SelectPicker } from 'rsuite';
+import 'rsuite/dist/styles/rsuite.min.css';
 
 export default class Timeline extends Component {
   constructor(props) {
     super(props);
-    this.data = processClimbers();
+    const stuff = processClimbers();
+    this.data = stuff;
+    this.names = getNames(stuff);
     this.climber = selectClimber(this.data, 'Adam Ondra');
   }
 
@@ -19,7 +22,12 @@ export default class Timeline extends Component {
       <div>
         <p>Hello world!</p>
         <p>{console.log(Data)}</p>
+        {console.log(this.names)}
         <p>{console.log(processClimbers(Data))}</p>
+        <SelectPicker
+          data={this.names}
+          style={{width: 300}}
+        />
         <Plots boulder={this.climber.boulder} sport={this.climber.sport}/>
       </div>
     );
@@ -52,10 +60,17 @@ class Plots extends Component {
           className= "sport-climbs"
           data={this.props.sport}
         />
-        {console.log(this.props.sport)}
       </XYPlot>
     );
   }
+}
+
+function getNames(data) {
+  const names = [];
+  Object.keys(data).forEach(d => {
+    names.push({value: d, label: d});
+  });
+  return names;
 }
 
 function convertDate(datestr) {
