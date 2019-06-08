@@ -5,12 +5,24 @@ module.exports = {
   module: {
     rules: [
       {
-        test: /\.js$/,
+        test: /\.(js$)|(jsx$)/,
         loader: 'babel-loader',
         exclude: [/node_modules/],
         query: {
           presets: ['es2017']
         }
+      },
+      {
+        test: /\.(csv)$/,
+        loader: 'csv-loader',
+        options: {
+          header: true,
+          dynamicTyping: true
+        }
+      },
+      {
+        test: /\.css$/i,
+        use: ['style-loader', 'css-loader']
       }
     ]
   },

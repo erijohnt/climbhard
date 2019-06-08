@@ -6,6 +6,7 @@ import Hairball from './interactiveforce';
 import ClimbingMap from './map';
 import TimeMap from './timemap';
 import Horizontal from './slider';
+import Timeline from './timeline';
 
 const longBlock = `
 The beginnings of climbing as a sport are hard to pin down. The Lake and Peak District in the U.K., the Dolomites in Italy, Yosemite in the U.S., and the forest of Fontainebleau in France all have major claims to the birth of climbing or the emergence of a new type of climbing in the 19th and 20th centuries. In its’ early days, most climbing done was of a particular style called alpinism, in which the goal was to climb large and intimidating mountains. This style of climbing still exists today, of course, but climbing has diversified into many sub-disciplines such as trad (or traditional) climbing, sport climbing, speed climbing, big wall climbing, bouldering, etc. Today, two of the most popular sub-disciplines of climbing are sport climbing and bouldering.
@@ -48,6 +49,7 @@ class RootComponent extends React.Component {
         <ClimbingMap />
         <TimeMap />
         <Hairball />
+        <Timeline />
       </div>
     );
   }
