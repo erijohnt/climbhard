@@ -1,6 +1,6 @@
 import React, {Component} from 'react';
 import Data from '../../data/climbingdata.csv';
-import {XYPlot, XAxis, YAxis, MarkSeries} from 'react-vis';
+import {XYPlot, XAxis, YAxis, MarkSeries, HorizontalGridLines, VerticalGridLines} from 'react-vis';
 import {frenchToNumber} from '../utils';
 
 export default class Timeline extends Component {
@@ -42,6 +42,8 @@ class Plots extends Component {
         <XAxis />
         <YAxis orientation="left" className="boulder axis"/>
         <YAxis orientation="right" className="sport axis"/>
+        <HorizontalGridLines />
+        <VerticalGridLines />
         <MarkSeries
           className= "boulder-climbs"
           data={this.props.boulder}
@@ -104,7 +106,7 @@ function selectClimber(data, climber) {
       return;
     }
     if (d.style === 'Sport Route') {
-      sport.push({d: d.date, y: d.grade});
+      sport.push({x: d.date, y: d.grade});
     } else if (d.style === 'Boulder Problem') {
       boulder.push({x: d.date, y: d.grade});
     }
